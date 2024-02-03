@@ -29,7 +29,7 @@ namespace Destinos.Data
 
                 new Destino { Id = 5, Nome = "Fernando de Noronha", Estado = "PE", Pais ="Brasil", destinoUrl = "https://teatur.com.br/wp-content/uploads/2018/09/Noronha_1.jpg", Valor ="R$ 1.200,00"},
 
-                new Destino { Id = 6, Nome = "Gramado", Estado = "RS", Pais ="Brasil", destinoUrl = "https://lh3.googleusercontent.com/proxy/rWcyPYjGYCSgc0cijgw7Sl4EKNWG3GbSvOEpbQfdM70AZf6A_DHLOiqjFh7SOVk0DWgqWt7IZPslgnd8x-AiTAUJvWHqLcbxr7KFzF9_mKleaYU8ia-H0at9hS0DYr2Hmqae10FwUlM5d2vd6rCL1T0ZEbG8EyAhCEIzD_tfQcfoRKDp87mVpO8u5a2d1A", Valor ="R$ 998,00"},
+                new Destino { Id = 6, Nome = "Gramado", Estado = "RS", Pais ="Brasil", destinoUrl = "https://uploads.metropoles.com/wp-content/uploads/2021/07/15133517/Gramado_Rio_Grande_do_Sul_RS.jpg", Valor ="R$ 998,00"},
 
                 new Destino { Id = 7, Nome = "Machu Picchu", Estado = "Cusco", Pais ="Perú", destinoUrl = "https://www.adventureclub.com.br/wp-content/uploads/2014/08/1-MachuPicchu-1.jpg", Valor ="R$ 559,00"},
 

@@ -1,9 +1,10 @@
-
 .container {
 	display: flex;
 	gap: 20px;
 	margin-top: 0px;
 	justify-content: center;
+	color: aliceblue;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 

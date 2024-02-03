@@ -2754,11 +2754,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RAYZA\\Desktop\\ApiViagem\\Destinos\\Destinos.csproj",
+      "projectUniqueName": "C:\\Users\\RAYZA\\Desktop\\ATIVIDADES PRÁTICAS RECODE\\Atividade_Pratica_Modulo_6\\ApiViagem\\Destinos\\Destinos.csproj",
       "projectName": "Destinos",
-      "projectPath": "C:\\Users\\RAYZA\\Desktop\\ApiViagem\\Destinos\\Destinos.csproj",
+      "projectPath": "C:\\Users\\RAYZA\\Desktop\\ATIVIDADES PRÁTICAS RECODE\\Atividade_Pratica_Modulo_6\\ApiViagem\\Destinos\\Destinos.csproj",
       "packagesPath": "C:\\Users\\RAYZA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RAYZA\\Desktop\\ApiViagem\\Destinos\\obj\\",
+      "outputPath": "C:\\Users\\RAYZA\\Desktop\\ATIVIDADES PRÁTICAS RECODE\\Atividade_Pratica_Modulo_6\\ApiViagem\\Destinos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RAYZA\\AppData\\Roaming\\NuGet\\NuGet.Config"

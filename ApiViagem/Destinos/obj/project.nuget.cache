@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wha496AzGq4nedGvEVNU6kD0GxVp3lymRmpft+PPVt7PAwP/0jNirfkB5EOqjlsbI+F6sVvdgaKxX+UBBYP10A==",
+  "dgSpecHash": "4JJNU/9WDqDAZMS6/6SkVCdBEnRJJmTD+C59gALC6W0S7xwVNC6+Lxrs3PN6O1Zd+pKk8pKme/yUjsWNxw+d0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RAYZA\\Desktop\\ApiViagem\\Destinos\\Destinos.csproj",
+  "projectFilePath": "C:\\Users\\RAYZA\\Desktop\\ATIVIDADES PRÁTICAS RECODE\\Atividade_Pratica_Modulo_6\\ApiViagem\\Destinos\\Destinos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RAYZA\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\RAYZA\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.1\\microsoft.aspnetcore.openapi.8.0.1.nupkg.sha512",
