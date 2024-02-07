@@ -8,7 +8,7 @@ O projeto foi construído durante o curso de Desenvolvedor Full Stack da Recode 
 
 ![Web 1](Assets/paginainicial.png)
 
-![Web 2](Assets/paginainicial2.png)
+![Web 2](Assets/paginainicial1.png)
 
 # Tecnologias utilizadas
 ## Back end
@@ -16,5 +16,8 @@ O projeto foi construído durante o curso de Desenvolvedor Full Stack da Recode 
 ## Front end
 - Next.Js
 
-
+## Implantação em produção
+- Back end: Visual Studio Code
+- Front end web: Visual Studio Code
+- Banco de dados: MySQL Workbench
 
